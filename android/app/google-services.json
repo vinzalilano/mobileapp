@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69146413472",
+    "project_id": "signin1-f3061",
+    "storage_bucket": "signin1-f3061.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69146413472:android:5101ad05df3cd1a1ff3cc5",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJ1V_Dt1VC9gmICALNCfmsRM7dTmNSwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
